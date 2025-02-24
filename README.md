@@ -35,14 +35,22 @@ VCS track changes to source code and coordinates work among team members e.g., G
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 a) Requirements changes during the development cycle, leading to scope creep and project delays
+b) Tight deadlines-pressure to deliver software products on schedule can result in rushed development and compromised quality
+c) Technical Debt-accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+Strategies to overcome challenges may include effective communication, agile methodologies, prioritization of tasks, and reqular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+a) Unit testing-testing individual components or modules of software
+b) Integration testing-testing interactions between different components or subsystems
+c) System testing-testing the entire software system as a whole
+d) Acceptance testing-testing the software against user requirements to ensure it meets user needs.
+These help identify and fix defects leading to higher-quality software products.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+"Tell me about the president" is a vague prompt. To make it clear, specific and concise I'll say "Tell me about the president of the United States of America" The second prompt gives clear and specific instructions to the recipient.
